@@ -11,7 +11,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/base.png?version=3118A0ACD4ECA9D9A6124565DA139EBF
+        image: /local/floorplan/base.png?version=8F65E3746BFF7EE785ACA224B83DA8C0
         filter: none
         style:
           left: 50%
@@ -29,7 +29,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_pin_light.png?version=7F2CC7A9380103DD9FAECBC91DEFCAC2
+        image: /local/floorplan/light.sidewalk_pin_light.png?version=949207FFAD443B3C9693DBCF5F20BC62
         filter: none
         style:
           left: 50%
@@ -48,7 +48,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entrance_pin_light.png?version=B8AF2A4E519341D9F55D69C7B4D84839
+        image: /local/floorplan/light.entrance_pin_light.png?version=52681A2964D40BE5A4609E566E3BC415
         filter: none
         style:
           left: 50%
@@ -67,7 +67,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.powder_pin_light.png?version=74B1145DCCC0D7D214080E8AD0AA1694
+        image: /local/floorplan/light.powder_pin_light.png?version=CC1DD64B1EA765197B87569CDF4CDAF2
         filter: none
         style:
           left: 50%
@@ -86,7 +86,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.outside_wall_light_2.png?version=85B4B36796332051DEA299D4DB3F523A
+        image: /local/floorplan/light.outside_wall_light_2.png?version=9A9FBD9CEE95C97A7D73DCBE10415133
         filter: none
         style:
           left: 50%
@@ -105,7 +105,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_right_pin_light.png?version=6593DFB5D766B9AD06911034AB11B96D
+        image: /local/floorplan/light.service_right_pin_light.png?version=B346955C6EB19BDF209EE5B33A78D634
         filter: none
         style:
           left: 50%
@@ -124,7 +124,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.front_wing_pin_light.png?version=879B9BB31E3CF0524EACDEDB6244D846
+        image: /local/floorplan/light.front_wing_pin_light.png?version=56759AAD85BCCAE076407B8CC64CA842
         filter: none
         style:
           left: 50%
@@ -143,7 +143,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.office_pin_light.png?version=AC0025D8D1262A227E9172B3A21EDCEF
+        image: /local/floorplan/light.office_pin_light.png?version=F0DEB54170AA1C0D2E0B28F9C4736E20
         filter: none
         style:
           left: 50%
@@ -162,7 +162,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_pin_light.png?version=3A4C1FA73BABFD43CEDEA7DA6623DCDF
+        image: /local/floorplan/light.guest_pin_light.png?version=AC3400761EAD5BAB8D1E6C98CE8888C4
         filter: none
         style:
           left: 50%
@@ -181,7 +181,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.maid_center_light.png?version=1050BE71827F2F142C87AEFD6F2E1841
+        image: /local/floorplan/light.maid_center_light.png?version=6102E2599D523983D444DCCB5C27A23F
         filter: none
         style:
           left: 50%
@@ -200,7 +200,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.server_pin_light.png?version=2015E3066F20BD9298C7D8ABA7CF5DEE
+        image: /local/floorplan/light.server_pin_light.png?version=9701040D50F993BC2DFBB058587A4F85
         filter: none
         style:
           left: 50%
@@ -219,7 +219,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_cove_light.png?version=141E53EEE4ABD56E8C0632C3553FD40C
+        image: /local/floorplan/light.guest_cove_light.png?version=4FE7B939D0C8569E5C1995D706D8A310
         filter: none
         style:
           left: 50%
@@ -238,7 +238,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_storge_pin_light.png?version=2055766F8494B52F709BC02A421261AE
+        image: /local/floorplan/light.service_storge_pin_light.png?version=A4BA825768CE2EF142855A7E1324F1ED
         filter: none
         style:
           left: 50%
@@ -257,7 +257,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.stair_pin_light.png?version=61B4C94158B36CE32F8C6CADEF0A191C
+        image: /local/floorplan/light.stair_pin_light.png?version=7B6A3A9A93E708659CA9169DAD10703C
         filter: none
         style:
           left: 50%
@@ -276,7 +276,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.maid_pin_light.png?version=1B87F122C8431D973912085874CA4307
+        image: /local/floorplan/light.maid_pin_light.png?version=2F9376ACF9C7857D8F11362973327301
         filter: none
         style:
           left: 50%
@@ -295,7 +295,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_cabinet_light.png?version=54AFD0FAD2EBD92FFA8F17202F02D43F
+        image: /local/floorplan/light.entertainment_cabinet_light.png?version=12CC88574D7E33ED6BC26DB83A5EE094
         filter: none
         style:
           left: 50%
@@ -314,7 +314,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.garage_strip_light.png?version=AA617364A340D55404845B9655EB9204
+        image: /local/floorplan/light.garage_strip_light.png?version=D2ADFA6AD565054A8C84DF2478F76D5C
         filter: none
         style:
           left: 50%
@@ -333,7 +333,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_center_light.png?version=D158734960FE73D898B1B32541A8A91D
+        image: /local/floorplan/light.guest_center_light.png?version=C3F24486451A54A81CC16CF85DA59522
         filter: none
         style:
           left: 50%
@@ -352,7 +352,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_strip_light.png?version=467BF89305C3CE0B193C91D6DA837C35
+        image: /local/floorplan/light.sidewalk_strip_light.png?version=6C2C7AB42345CD6A1C9AC5D6F8733153
         filter: none
         style:
           left: 50%
@@ -371,7 +371,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_bathroom_pin_light.png?version=47949E9E5B4402CAECAC2156B1179C4E
+        image: /local/floorplan/light.guest_bathroom_pin_light.png?version=092EB0121D8A84DB7A405433336A9944
         filter: none
         style:
           left: 50%
@@ -390,7 +390,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_right_pin_light.png?version=4D31504680E59586F08465B54B1EDD57
+        image: /local/floorplan/light.kitchen_right_pin_light.png?version=4287CBC97C7985A296C09EB3482B904F
         filter: none
         style:
           left: 50%
@@ -409,7 +409,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_wall_light.png?version=875C20386155C8E7D0786F3A2AB23569
+        image: /local/floorplan/light.sidewalk_wall_light.png?version=980BC30C6E1367AA5348D2B02614CC30
         filter: none
         style:
           left: 50%
@@ -428,7 +428,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_left_pin_light.png?version=60A6F0238E7EB7B1AF4EB2326D036787
+        image: /local/floorplan/light.service_left_pin_light.png?version=2B065A3907C19A5B022B1F3433310B1D
         filter: none
         style:
           left: 50%
@@ -447,7 +447,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.lanai_wall_light.png?version=54ED222994342DC5015456CA574EF23F
+        image: /local/floorplan/light.lanai_wall_light.png?version=A9CED4551E8A1C5340BE1401C95B46F3
         filter: none
         style:
           left: 50%
@@ -466,7 +466,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_strip_light.png?version=B8030D17B2D19362B7CCD1AB4A9F2FD1
+        image: /local/floorplan/light.entertainment_strip_light.png?version=C271D4D8BF4293C1628B216D992E96D7
         filter: none
         style:
           left: 50%
@@ -485,7 +485,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_outside_wall_light.png?version=53B19C093E7BB56D477EC02BCFFF28C6
+        image: /local/floorplan/light.service_outside_wall_light.png?version=E7ED6EAFDE1002D93C9E3CF3151FE21F
         filter: none
         style:
           left: 50%
@@ -504,7 +504,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_cabinet_strip_light.png?version=DC19E347691FFCB2019DEBA8BCE190C9
+        image: /local/floorplan/light.kitchen_cabinet_strip_light.png?version=D9E11AD362E50182D37617D9FD5E48C7
         filter: none
         style:
           left: 50%
@@ -523,7 +523,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_center_light.png?version=D7D7CD404A587999A73AF9F97B9F41B2
+        image: /local/floorplan/light.entertainment_center_light.png?version=E3467E1FE2CDDB1AA4161F3422164CCC
         filter: none
         style:
           left: 50%
@@ -542,7 +542,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_pin_light.png?version=FFCE84C7069E87598A6FF466B716C95B
+        image: /local/floorplan/light.entertainment_pin_light.png?version=11C229833CF2FFAEC80D7AFAAB784F1F
         filter: none
         style:
           left: 50%
@@ -561,7 +561,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.garage_pin_light.png?version=F76ACC20E78710AF8AB4C039A0CFC932
+        image: /local/floorplan/light.garage_pin_light.png?version=590B1A595CC773F6C50AB33EC4C53231
         filter: none
         style:
           left: 50%
@@ -580,7 +580,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.stairs_wall_light.png?version=D2E5BD3B369F3D78FB4FBE23EFE96B03
+        image: /local/floorplan/light.stairs_wall_light.png?version=D3B0E4C72E18C3F32F8ACFC03F777E19
         filter: none
         style:
           left: 50%
@@ -599,7 +599,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.outside_wall_light.png?version=7703547EC5848D282EBB20E2CCDC9046
+        image: /local/floorplan/light.outside_wall_light.png?version=A28A784245FEA9FF1EC510CF1EB9EEE0
         filter: none
         style:
           left: 50%
@@ -618,7 +618,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.lanai_pin_light.png?version=2C41C65A815009B7EAF12480FFA6E80A
+        image: /local/floorplan/light.lanai_pin_light.png?version=CB0C48F4C7E0D41F008CFE7429437F21
         filter: none
         style:
           left: 50%
@@ -637,7 +637,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.porch_pin_light.png?version=CE065C997ED5119520DD34F33DEC5636
+        image: /local/floorplan/light.porch_pin_light.png?version=6810EBBEFFBA6D850D573A985FC800F7
         filter: none
         style:
           left: 50%
@@ -656,7 +656,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_entrance_pin_light.png?version=A4F5B6D480B0AA5761BE9308DEAC1731
+        image: /local/floorplan/light.service_entrance_pin_light.png?version=DCD82EFD158292E048E85A6F6A187A67
         filter: none
         style:
           left: 50%
@@ -675,7 +675,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_left_pin_light.png?version=4D864B4498F1CFDDB8559E63A2E58313
+        image: /local/floorplan/light.kitchen_left_pin_light.png?version=2C218C2A955C620C012E0289ABCB8C02
         filter: none
         style:
           left: 50%
@@ -694,7 +694,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_outside_pin_light.png?version=2924FAC924AE03C8EC428A9C38F603E3
+        image: /local/floorplan/light.guest_outside_pin_light.png?version=C9D1EA5E458AA26E627976A054F8C1F3
         filter: none
         style:
           left: 50%
@@ -713,7 +713,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.office_center_light.png?version=9523E8C5E67338281CA0783F81DCF206
+        image: /local/floorplan/light.office_center_light.png?version=91A1E0D5C1D909C25F1843A60FAA6971
         filter: none
         style:
           left: 50%
