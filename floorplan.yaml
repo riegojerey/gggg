@@ -208,6 +208,25 @@ elements:
           width: 100%
           mix-blend-mode: lighten
   - type: conditional
+    title: light.dining_pin_light
+    conditions:
+      - condition: state
+        entity: light.dining_pin_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.dining_pin_light.png?version=38B601DC363CECC37D90BAF52287CE7B
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
     title: light.guest_cove_light
     conditions:
       - condition: state
@@ -455,6 +474,25 @@ elements:
           width: 100%
           mix-blend-mode: lighten
   - type: conditional
+    title: light.dining_cove_light
+    conditions:
+      - condition: state
+        entity: light.dining_cove_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.dining_cove_light.png?version=F4E35C067F8DE5DC7A45B72CB96AB829
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
     title: light.entertainment_strip_light
     conditions:
       - condition: state
@@ -683,6 +721,25 @@ elements:
           width: 100%
           mix-blend-mode: lighten
   - type: conditional
+    title: light.dining_center_light
+    conditions:
+      - condition: state
+        entity: light.dining_center_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.dining_center_light.png?version=868C6D4348622F31E031CC1B7856D514
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
     title: light.guest_outside_pin_light
     conditions:
       - condition: state
@@ -870,6 +927,22 @@ elements:
     style:
       top: 18.95%
       left: 20.44%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.dining_pin_light
+    title: null
+    style:
+      top: 41.04%
+      left: 47.25%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1089,6 +1162,22 @@ elements:
     hold_action:
       action: more-info
   - type: state-icon
+    entity: light.dining_cove_light
+    title: null
+    style:
+      top: 37.39%
+      left: 45.52%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
     entity: light.entertainment_strip_light
     title: null
     style:
@@ -1270,6 +1359,22 @@ elements:
     style:
       top: 36.70%
       left: 33.80%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.dining_center_light
+    title: null
+    style:
+      top: 32.72%
+      left: 46.47%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
