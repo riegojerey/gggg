@@ -11,7 +11,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/base.png?version=8F65E3746BFF7EE785ACA224B83DA8C0
+        image: /local/floorplan/base.png?version=FF86241E67AC0E83EC700583D645A441
         filter: none
         style:
           left: 50%
@@ -29,7 +29,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_pin_light.png?version=949207FFAD443B3C9693DBCF5F20BC62
+        image: /local/floorplan/light.sidewalk_pin_light.png?version=46FA806BC4D3596D6C512E0CA658D106
         filter: none
         style:
           left: 50%
@@ -48,7 +48,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entrance_pin_light.png?version=52681A2964D40BE5A4609E566E3BC415
+        image: /local/floorplan/light.entrance_pin_light.png?version=86FF1FA1D81BE423E894FA9167D0B0A2
         filter: none
         style:
           left: 50%
@@ -67,7 +67,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.powder_pin_light.png?version=CC1DD64B1EA765197B87569CDF4CDAF2
+        image: /local/floorplan/light.powder_pin_light.png?version=393938ECBFBC3D5F2CFF48D60A3FCCAE
         filter: none
         style:
           left: 50%
@@ -86,7 +86,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.outside_wall_light_2.png?version=9A9FBD9CEE95C97A7D73DCBE10415133
+        image: /local/floorplan/light.outside_wall_light_2.png?version=0725619DCC0AF8C5FBF8D0E99F49DA32
         filter: none
         style:
           left: 50%
@@ -105,7 +105,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_right_pin_light.png?version=B346955C6EB19BDF209EE5B33A78D634
+        image: /local/floorplan/light.service_right_pin_light.png?version=64CAA6E1D42F87CF4B5631EB358A9270
         filter: none
         style:
           left: 50%
@@ -124,7 +124,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.front_wing_pin_light.png?version=56759AAD85BCCAE076407B8CC64CA842
+        image: /local/floorplan/light.front_wing_pin_light.png?version=EDCE11CBD7585FDD9ACE571E3DA3F229
         filter: none
         style:
           left: 50%
@@ -143,7 +143,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.office_pin_light.png?version=F0DEB54170AA1C0D2E0B28F9C4736E20
+        image: /local/floorplan/light.office_pin_light.png?version=596E6B76D7866C1F46A8BB4A52841891
         filter: none
         style:
           left: 50%
@@ -162,7 +162,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_pin_light.png?version=AC3400761EAD5BAB8D1E6C98CE8888C4
+        image: /local/floorplan/light.guest_pin_light.png?version=A29D90A2C036829575347DCD5F3B2FC7
         filter: none
         style:
           left: 50%
@@ -181,7 +181,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.maid_center_light.png?version=6102E2599D523983D444DCCB5C27A23F
+        image: /local/floorplan/light.maid_center_light.png?version=DFD9636FBF7BC0A2BE190744EFC01EDD
         filter: none
         style:
           left: 50%
@@ -200,7 +200,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.server_pin_light.png?version=9701040D50F993BC2DFBB058587A4F85
+        image: /local/floorplan/light.server_pin_light.png?version=CB36ECD4B0A166EB2E07027B5ECCE78D
         filter: none
         style:
           left: 50%
@@ -219,7 +219,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.dining_pin_light.png?version=38B601DC363CECC37D90BAF52287CE7B
+        image: /local/floorplan/light.dining_pin_light.png?version=9EFBA2AB9B9500583CFD7BC3A0DD7B97
         filter: none
         style:
           left: 50%
@@ -238,7 +238,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_cove_light.png?version=4FE7B939D0C8569E5C1995D706D8A310
+        image: /local/floorplan/light.guest_cove_light.png?version=BE63618D29464243B8CFDF231FCB3151
         filter: none
         style:
           left: 50%
@@ -257,7 +257,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_storge_pin_light.png?version=A4BA825768CE2EF142855A7E1324F1ED
+        image: /local/floorplan/light.service_storge_pin_light.png?version=AD8572778C42258EB722147A11B91339
         filter: none
         style:
           left: 50%
@@ -276,7 +276,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.stair_pin_light.png?version=7B6A3A9A93E708659CA9169DAD10703C
+        image: /local/floorplan/light.stair_pin_light.png?version=977C26F9634B59642CE2FDCDDC4D09FE
         filter: none
         style:
           left: 50%
@@ -295,7 +295,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.maid_pin_light.png?version=2F9376ACF9C7857D8F11362973327301
+        image: /local/floorplan/light.maid_pin_light.png?version=EDC5CD18D2287D6636170A014C84B7B6
         filter: none
         style:
           left: 50%
@@ -314,7 +314,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_cabinet_light.png?version=12CC88574D7E33ED6BC26DB83A5EE094
+        image: /local/floorplan/light.entertainment_cabinet_light.png?version=57FB2594A96BA0B3BA037B9596A646BC
         filter: none
         style:
           left: 50%
@@ -333,26 +333,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.garage_strip_light.png?version=D2ADFA6AD565054A8C84DF2478F76D5C
-        filter: none
-        style:
-          left: 50%
-          top: 50%
-          width: 100%
-          mix-blend-mode: lighten
-  - type: conditional
-    title: light.guest_center_light
-    conditions:
-      - condition: state
-        entity: light.guest_center_light
-        state: 'on'
-    elements:
-      - type: image
-        tap_action:
-          action: none
-        hold_action:
-          action: none
-        image: /local/floorplan/light.guest_center_light.png?version=C3F24486451A54A81CC16CF85DA59522
+        image: /local/floorplan/light.garage_strip_light.png?version=59255DD3EC2E243F52883A1B7A046DA0
         filter: none
         style:
           left: 50%
@@ -371,7 +352,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_strip_light.png?version=6C2C7AB42345CD6A1C9AC5D6F8733153
+        image: /local/floorplan/light.sidewalk_strip_light.png?version=6641F438FC1F83F0F9528D8913A3E9C8
         filter: none
         style:
           left: 50%
@@ -390,7 +371,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_bathroom_pin_light.png?version=092EB0121D8A84DB7A405433336A9944
+        image: /local/floorplan/light.guest_bathroom_pin_light.png?version=ADEF95938079BB4552105A8E0E38F9B9
         filter: none
         style:
           left: 50%
@@ -409,7 +390,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_right_pin_light.png?version=4287CBC97C7985A296C09EB3482B904F
+        image: /local/floorplan/light.kitchen_right_pin_light.png?version=AE916C7E34830B71C2DE3D20B9D4C109
         filter: none
         style:
           left: 50%
@@ -428,7 +409,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.sidewalk_wall_light.png?version=980BC30C6E1367AA5348D2B02614CC30
+        image: /local/floorplan/light.sidewalk_wall_light.png?version=27C1DB388ED93C39234FA2C12D6CDF16
         filter: none
         style:
           left: 50%
@@ -447,7 +428,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_left_pin_light.png?version=2B065A3907C19A5B022B1F3433310B1D
+        image: /local/floorplan/light.service_left_pin_light.png?version=0C15157FADE434209FC04F469E4F35E2
         filter: none
         style:
           left: 50%
@@ -466,7 +447,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.lanai_wall_light.png?version=A9CED4551E8A1C5340BE1401C95B46F3
+        image: /local/floorplan/light.lanai_wall_light.png?version=5684C54CEF2F1B2997A4748BECFA7F00
         filter: none
         style:
           left: 50%
@@ -485,7 +466,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.dining_cove_light.png?version=F4E35C067F8DE5DC7A45B72CB96AB829
+        image: /local/floorplan/light.dining_cove_light.png?version=E2712F7B966CEE61AE978A72A01656AA
         filter: none
         style:
           left: 50%
@@ -504,7 +485,26 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_strip_light.png?version=C271D4D8BF4293C1628B216D992E96D7
+        image: /local/floorplan/light.entertainment_strip_light.png?version=DB97DB74D763A276D4FF4BFA22A61E6A
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
+    title: light.front_wing_up_down_light
+    conditions:
+      - condition: state
+        entity: light.front_wing_up_down_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.front_wing_up_down_light.png?version=9300C46E12766BBF3E227ACA8B668B6B
         filter: none
         style:
           left: 50%
@@ -523,7 +523,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_outside_wall_light.png?version=E7ED6EAFDE1002D93C9E3CF3151FE21F
+        image: /local/floorplan/light.service_outside_wall_light.png?version=14AC8390B7A9E3EFB21C26E15113F2E5
         filter: none
         style:
           left: 50%
@@ -542,7 +542,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_cabinet_strip_light.png?version=D9E11AD362E50182D37617D9FD5E48C7
+        image: /local/floorplan/light.kitchen_cabinet_strip_light.png?version=8E13E5193903BACA60FDEE5CAD57D3E9
         filter: none
         style:
           left: 50%
@@ -561,7 +561,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_center_light.png?version=E3467E1FE2CDDB1AA4161F3422164CCC
+        image: /local/floorplan/light.entertainment_center_light.png?version=895DB148A6D6E6E49CA5996DF1416DB8
         filter: none
         style:
           left: 50%
@@ -580,7 +580,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.entertainment_pin_light.png?version=11C229833CF2FFAEC80D7AFAAB784F1F
+        image: /local/floorplan/light.entertainment_pin_light.png?version=9D3128C222D9459D2D5FD7F57B40D6E2
         filter: none
         style:
           left: 50%
@@ -599,7 +599,26 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.garage_pin_light.png?version=590B1A595CC773F6C50AB33EC4C53231
+        image: /local/floorplan/light.garage_pin_light.png?version=1144B2C63CFA841231776C7ABAB1BB51
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
+    title: light.powder_mirror_light
+    conditions:
+      - condition: state
+        entity: light.powder_mirror_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.powder_mirror_light.png?version=DC3603138EA74291918E76D828A650CA
         filter: none
         style:
           left: 50%
@@ -618,7 +637,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.stairs_wall_light.png?version=D3B0E4C72E18C3F32F8ACFC03F777E19
+        image: /local/floorplan/light.stairs_wall_light.png?version=A4A352EE51D4D5C8DC8AD41D52CFCB2F
         filter: none
         style:
           left: 50%
@@ -637,7 +656,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.outside_wall_light.png?version=A28A784245FEA9FF1EC510CF1EB9EEE0
+        image: /local/floorplan/light.outside_wall_light.png?version=A79209E9B4E057F370C29930379D9320
         filter: none
         style:
           left: 50%
@@ -656,7 +675,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.lanai_pin_light.png?version=CB0C48F4C7E0D41F008CFE7429437F21
+        image: /local/floorplan/light.lanai_pin_light.png?version=E4124E0335D32B51A40287F4600F32E8
         filter: none
         style:
           left: 50%
@@ -675,7 +694,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.porch_pin_light.png?version=6810EBBEFFBA6D850D573A985FC800F7
+        image: /local/floorplan/light.porch_pin_light.png?version=874F0AED3536E45BA59ABA29A87347A3
         filter: none
         style:
           left: 50%
@@ -694,7 +713,45 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.service_entrance_pin_light.png?version=DCD82EFD158292E048E85A6F6A187A67
+        image: /local/floorplan/light.service_entrance_pin_light.png?version=911D36EBBAFEB80CD22501DDCB1B2031
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
+    title: light.main_gate_light
+    conditions:
+      - condition: state
+        entity: light.main_gate_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.main_gate_light.png?version=92242D42C009CC0D9DB56654BE775337
+        filter: none
+        style:
+          left: 50%
+          top: 50%
+          width: 100%
+          mix-blend-mode: lighten
+  - type: conditional
+    title: light.guest_niche_light
+    conditions:
+      - condition: state
+        entity: light.guest_niche_light
+        state: 'on'
+    elements:
+      - type: image
+        tap_action:
+          action: none
+        hold_action:
+          action: none
+        image: /local/floorplan/light.guest_niche_light.png?version=064458D9EBD43A84245578058BD72795
         filter: none
         style:
           left: 50%
@@ -713,7 +770,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.kitchen_left_pin_light.png?version=2C218C2A955C620C012E0289ABCB8C02
+        image: /local/floorplan/light.kitchen_left_pin_light.png?version=CFBD9C06C6B5EA7258C8BFC4940D8AF8
         filter: none
         style:
           left: 50%
@@ -732,7 +789,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.dining_center_light.png?version=868C6D4348622F31E031CC1B7856D514
+        image: /local/floorplan/light.dining_center_light.png?version=22403A6649F171932F9676DF0E8D9366
         filter: none
         style:
           left: 50%
@@ -751,7 +808,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.guest_outside_pin_light.png?version=C9D1EA5E458AA26E627976A054F8C1F3
+        image: /local/floorplan/light.guest_outside_pin_light.png?version=D1696AC7F4B60E1B00E513BBFD506823
         filter: none
         style:
           left: 50%
@@ -759,10 +816,10 @@ elements:
           width: 100%
           mix-blend-mode: lighten
   - type: conditional
-    title: light.office_center_light
+    title: light.service_outside_pin_light
     conditions:
       - condition: state
-        entity: light.office_center_light
+        entity: light.service_outside_pin_light
         state: 'on'
     elements:
       - type: image
@@ -770,7 +827,7 @@ elements:
           action: none
         hold_action:
           action: none
-        image: /local/floorplan/light.office_center_light.png?version=91A1E0D5C1D909C25F1843A60FAA6971
+        image: /local/floorplan/light.service_outside_pin_light.png?version=B04667365F09F1AF31104266E46D23E2
         filter: none
         style:
           left: 50%
@@ -781,8 +838,8 @@ elements:
     entity: light.sidewalk_pin_light
     title: null
     style:
-      top: 51.13%
-      left: 34.71%
+      top: 51.10%
+      left: 35.06%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -797,8 +854,8 @@ elements:
     entity: light.entrance_pin_light
     title: null
     style:
-      top: 35.21%
-      left: 63.61%
+      top: 35.53%
+      left: 63.31%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -813,8 +870,8 @@ elements:
     entity: light.powder_pin_light
     title: null
     style:
-      top: 44.74%
-      left: 58.47%
+      top: 44.85%
+      left: 58.26%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -829,8 +886,8 @@ elements:
     entity: light.outside_wall_light_2
     title: null
     style:
-      top: 47.61%
-      left: 83.48%
+      top: 43.68%
+      left: 86.69%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -845,8 +902,8 @@ elements:
     entity: light.service_right_pin_light
     title: null
     style:
-      top: 18.26%
-      left: 29.48%
+      top: 18.92%
+      left: 29.91%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -861,8 +918,8 @@ elements:
     entity: light.front_wing_pin_light
     title: null
     style:
-      top: 46.58%
-      left: 86.20%
+      top: 47.55%
+      left: 85.08%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -877,8 +934,8 @@ elements:
     entity: light.office_pin_light
     title: null
     style:
-      top: 22.83%
-      left: 59.28%
+      top: 22.69%
+      left: 59.01%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -893,8 +950,8 @@ elements:
     entity: light.guest_pin_light
     title: null
     style:
-      top: 23.78%
-      left: 73.42%
+      top: 24.22%
+      left: 73.27%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -909,8 +966,8 @@ elements:
     entity: light.maid_center_light
     title: null
     style:
-      top: 25.43%
-      left: 16.73%
+      top: 25.97%
+      left: 17.46%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -925,8 +982,8 @@ elements:
     entity: light.server_pin_light
     title: null
     style:
-      top: 18.95%
-      left: 20.44%
+      top: 19.60%
+      left: 21.05%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -941,8 +998,8 @@ elements:
     entity: light.dining_pin_light
     title: null
     style:
-      top: 41.04%
-      left: 47.25%
+      top: 41.29%
+      left: 47.32%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -957,8 +1014,8 @@ elements:
     entity: light.guest_cove_light
     title: null
     style:
-      top: 18.85%
-      left: 73.49%
+      top: 19.47%
+      left: 74.09%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -973,8 +1030,8 @@ elements:
     entity: light.service_storge_pin_light
     title: null
     style:
-      top: 19.76%
-      left: 37.79%
+      top: 20.39%
+      left: 38.05%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -989,8 +1046,8 @@ elements:
     entity: light.stair_pin_light
     title: null
     style:
-      top: 29.81%
-      left: 60.40%
+      top: 30.05%
+      left: 60.22%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1005,8 +1062,8 @@ elements:
     entity: light.maid_pin_light
     title: null
     style:
-      top: 19.08%
-      left: 16.86%
+      top: 19.72%
+      left: 17.55%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1021,8 +1078,8 @@ elements:
     entity: light.entertainment_cabinet_light
     title: null
     style:
-      top: 46.78%
-      left: 76.57%
+      top: 46.49%
+      left: 75.95%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1037,24 +1094,8 @@ elements:
     entity: light.garage_strip_light
     title: null
     style:
-      top: 40.84%
-      left: 21.97%
-      border-radius: 50%
-      text-align: center
-      background-color: rgba(255, 255, 255, 0.3)
-      opacity: 100%
-    tap_action:
-      action: toggle
-    double_tap_action:
-      action: none
-    hold_action:
-      action: more-info
-  - type: state-icon
-    entity: light.guest_center_light
-    title: null
-    style:
-      top: 15.74%
-      left: 75.48%
+      top: 41.04%
+      left: 22.60%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1069,8 +1110,8 @@ elements:
     entity: light.sidewalk_strip_light
     title: null
     style:
-      top: 49.19%
-      left: 59.67%
+      top: 50.33%
+      left: 58.47%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1085,8 +1126,8 @@ elements:
     entity: light.guest_bathroom_pin_light
     title: null
     style:
-      top: 18.39%
-      left: 65.18%
+      top: 19.61%
+      left: 65.12%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1101,8 +1142,8 @@ elements:
     entity: light.kitchen_right_pin_light
     title: null
     style:
-      top: 38.02%
-      left: 36.40%
+      top: 38.27%
+      left: 36.70%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1117,8 +1158,8 @@ elements:
     entity: light.sidewalk_wall_light
     title: null
     style:
-      top: 50.38%
-      left: 56.97%
+      top: 50.16%
+      left: 46.93%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1133,8 +1174,8 @@ elements:
     entity: light.service_left_pin_light
     title: null
     style:
-      top: 23.57%
-      left: 29.47%
+      top: 24.12%
+      left: 29.91%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1149,8 +1190,8 @@ elements:
     entity: light.lanai_wall_light
     title: null
     style:
-      top: 10.16%
-      left: 46.51%
+      top: 10.85%
+      left: 46.56%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1165,8 +1206,8 @@ elements:
     entity: light.dining_cove_light
     title: null
     style:
-      top: 37.39%
-      left: 45.52%
+      top: 37.63%
+      left: 45.61%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1181,8 +1222,24 @@ elements:
     entity: light.entertainment_strip_light
     title: null
     style:
-      top: 38.65%
-      left: 79.26%
+      top: 38.79%
+      left: 78.68%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.front_wing_up_down_light
+    title: null
+    style:
+      top: 51.16%
+      left: 76.64%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1197,8 +1254,8 @@ elements:
     entity: light.service_outside_wall_light
     title: null
     style:
-      top: 15.45%
-      left: 26.58%
+      top: 16.15%
+      left: 27.06%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1213,8 +1270,8 @@ elements:
     entity: light.kitchen_cabinet_strip_light
     title: null
     style:
-      top: 43.73%
-      left: 33.11%
+      top: 43.86%
+      left: 33.48%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1229,8 +1286,8 @@ elements:
     entity: light.entertainment_center_light
     title: null
     style:
-      top: 33.74%
-      left: 79.09%
+      top: 34.06%
+      left: 78.44%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1245,8 +1302,8 @@ elements:
     entity: light.entertainment_pin_light
     title: null
     style:
-      top: 41.54%
-      left: 77.17%
+      top: 41.93%
+      left: 76.51%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1261,8 +1318,24 @@ elements:
     entity: light.garage_pin_light
     title: null
     style:
-      top: 46.95%
-      left: 16.72%
+      top: 47.02%
+      left: 17.46%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.powder_mirror_light
+    title: null
+    style:
+      top: 47.97%
+      left: 60.87%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1277,8 +1350,8 @@ elements:
     entity: light.stairs_wall_light
     title: null
     style:
-      top: 33.38%
-      left: 58.73%
+      top: 33.92%
+      left: 58.49%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1293,8 +1366,8 @@ elements:
     entity: light.outside_wall_light
     title: null
     style:
-      top: 66.83%
-      left: 35.78%
+      top: 66.45%
+      left: 36.10%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1309,8 +1382,8 @@ elements:
     entity: light.lanai_pin_light
     title: null
     style:
-      top: 21.64%
-      left: 46.57%
+      top: 22.23%
+      left: 46.65%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1325,8 +1398,8 @@ elements:
     entity: light.porch_pin_light
     title: null
     style:
-      top: 45.81%
-      left: 65.88%
+      top: 45.91%
+      left: 65.52%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1341,8 +1414,40 @@ elements:
     entity: light.service_entrance_pin_light
     title: null
     style:
-      top: 27.73%
-      left: 26.89%
+      top: 28.20%
+      left: 27.38%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.main_gate_light
+    title: null
+    style:
+      top: 62.93%
+      left: 64.84%
+      border-radius: 50%
+      text-align: center
+      background-color: rgba(255, 255, 255, 0.3)
+      opacity: 100%
+    tap_action:
+      action: toggle
+    double_tap_action:
+      action: none
+    hold_action:
+      action: more-info
+  - type: state-icon
+    entity: light.guest_niche_light
+    title: null
+    style:
+      top: 25.76%
+      left: 64.72%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1357,8 +1462,8 @@ elements:
     entity: light.kitchen_left_pin_light
     title: null
     style:
-      top: 36.70%
-      left: 33.80%
+      top: 36.99%
+      left: 34.15%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1373,8 +1478,8 @@ elements:
     entity: light.dining_center_light
     title: null
     style:
-      top: 32.72%
-      left: 46.47%
+      top: 33.02%
+      left: 46.56%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1389,8 +1494,8 @@ elements:
     entity: light.guest_outside_pin_light
     title: null
     style:
-      top: 12.20%
-      left: 73.10%
+      top: 11.60%
+      left: 73.39%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
@@ -1402,11 +1507,11 @@ elements:
     hold_action:
       action: more-info
   - type: state-icon
-    entity: light.office_center_light
+    entity: light.service_outside_pin_light
     title: null
     style:
-      top: 18.07%
-      left: 58.46%
+      top: 9.83%
+      left: 29.55%
       border-radius: 50%
       text-align: center
       background-color: rgba(255, 255, 255, 0.3)
